@@ -219,7 +219,3 @@ For testing purposes, I included additional API routes:
 These are **not required** by the exercise but can help debug the system. You can ignore or remove them if not needed.
 
 ---
-
-## ✅ Final Thoughts
-
-This **Receipt Processor API** is designed to **efficiently process receipts and calculate points based on the defined rules.** The implementation supports **Node.js** and **Docker**, ensuring easy setup and testing.
