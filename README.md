@@ -195,15 +195,15 @@ npm run dev
 
 ## 🔢 How Points Are Calculated
 
-| Rule                                                                | Points Awarded |
-| ------------------------------------------------------------------- | -------------- |
-| 1 point per alphanumeric character in the retailer name             | ✅             |
-| 50 points if `total` is a round dollar amount                       | ✅             |
-| 25 points if `total` is a multiple of `0.25`                        | ✅             |
-| 5 points for every two items                                        | ✅             |
-| Item description length is a multiple of 3 → `(price * 0.2)` points | ✅             |
-| 6 points if the purchase date is **odd**                            | ✅             |
-| 10 points if purchase time is **between 2:00PM - 4:00PM**           | ✅             |
+| Rule                                                                |
+| ------------------------------------------------------------------- |
+| 1 point per alphanumeric character in the retailer name             |
+| 50 points if `total` is a round dollar amount                       |
+| 25 points if `total` is a multiple of `0.25`                        |
+| 5 points for every two items                                        |
+| Item description length is a multiple of 3 → `(price * 0.2)` points |
+| 6 points if the purchase date is **odd**                            |
+| 10 points if purchase time is **between 2:00PM - 4:00PM**           |
 
 ---
 
